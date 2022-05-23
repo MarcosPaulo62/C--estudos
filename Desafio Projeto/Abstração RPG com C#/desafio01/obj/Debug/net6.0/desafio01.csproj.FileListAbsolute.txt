@@ -1,0 +1,15 @@
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\bin\Debug\net6.0\desafio01.exe
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\bin\Debug\net6.0\desafio01.deps.json
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\bin\Debug\net6.0\desafio01.runtimeconfig.json
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\bin\Debug\net6.0\desafio01.dll
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\bin\Debug\net6.0\desafio01.pdb
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.dll
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\refint\desafio01.dll
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.pdb
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\desafio01.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\desafio01\obj\Debug\net6.0\ref\desafio01.dll

@@ -1,0 +1,15 @@
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\bin\Debug\net6.0\Aula03.exe
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\bin\Debug\net6.0\Aula03.deps.json
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\bin\Debug\net6.0\Aula03.runtimeconfig.json
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\bin\Debug\net6.0\Aula03.dll
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\bin\Debug\net6.0\Aula03.pdb
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.csproj.AssemblyReference.cache
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.AssemblyInfoInputs.cache
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.AssemblyInfo.cs
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.csproj.CoreCompileInputs.cache
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.dll
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\refint\Aula03.dll
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.pdb
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\Aula03.genruntimeconfig.cache
+C:\workspace\C#\C# - Controlando o Fluxo de Execução\Aula03\obj\Debug\net6.0\ref\Aula03.dll
