@@ -1,0 +1,15 @@
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.exe
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.deps.json
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.runtimeconfig.json
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\bin\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\refint\Directory_And_DirectoryInfo.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.pdb
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\Directory_And_DirectoryInfo.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\Directory_And_DirectoryInfo\obj\Debug\net6.0\ref\Directory_And_DirectoryInfo.dll

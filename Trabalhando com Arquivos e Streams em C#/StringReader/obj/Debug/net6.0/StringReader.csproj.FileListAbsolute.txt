@@ -1,0 +1,15 @@
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\bin\Debug\net6.0\StringReader.exe
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\bin\Debug\net6.0\StringReader.deps.json
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\bin\Debug\net6.0\StringReader.runtimeconfig.json
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\bin\Debug\net6.0\StringReader.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\bin\Debug\net6.0\StringReader.pdb
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\refint\StringReader.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.pdb
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\StringReader.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\StringReader\obj\Debug\net6.0\ref\StringReader.dll

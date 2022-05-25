@@ -1,0 +1,17 @@
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\refint\ProjetoCsvHelper.dll
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Trabalhando com Arquivos e Streams em C#\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll
