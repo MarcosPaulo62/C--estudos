@@ -33,9 +33,6 @@ helper.DeletarArquivo(caminhoArquivoTesteCopia);
 
 
 
-
-
-
 // ICalculadora calc = new Calculadora();
 // System.Console.WriteLine(calc.Dividir(25, 5));
 

@@ -1,0 +1,15 @@
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Construtores, Propriedades, Delegates e Eventos em .NET\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
