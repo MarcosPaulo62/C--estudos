@@ -1,0 +1,15 @@
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\refint\Dio.Series.dll
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Desafio Projeto\Cadastro de Séries com dotnet\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
