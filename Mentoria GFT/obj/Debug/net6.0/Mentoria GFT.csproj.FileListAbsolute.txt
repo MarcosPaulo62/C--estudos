@@ -1,0 +1,15 @@
+C:\workspace\CSharp-estudos\Mentoria GFT\bin\Debug\net6.0\Mentoria GFT.exe
+C:\workspace\CSharp-estudos\Mentoria GFT\bin\Debug\net6.0\Mentoria GFT.deps.json
+C:\workspace\CSharp-estudos\Mentoria GFT\bin\Debug\net6.0\Mentoria GFT.runtimeconfig.json
+C:\workspace\CSharp-estudos\Mentoria GFT\bin\Debug\net6.0\Mentoria GFT.dll
+C:\workspace\CSharp-estudos\Mentoria GFT\bin\Debug\net6.0\Mentoria GFT.pdb
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.dll
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\refint\Mentoria GFT.dll
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.pdb
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\Mentoria GFT.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Mentoria GFT\obj\Debug\net6.0\ref\Mentoria GFT.dll
