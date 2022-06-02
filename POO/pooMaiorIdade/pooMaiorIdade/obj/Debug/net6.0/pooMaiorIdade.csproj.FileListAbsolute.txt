@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\net6.0\pooMaiorIdade.exe
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\net6.0\pooMaiorIdade.deps.json
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\net6.0\pooMaiorIdade.runtimeconfig.json
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\net6.0\pooMaiorIdade.dll
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\net6.0\pooMaiorIdade.pdb
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.AssemblyInfo.cs
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.dll
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\refint\pooMaiorIdade.dll
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.pdb
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\pooMaiorIdade.genruntimeconfig.cache
+C:\Users\marko\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\net6.0\ref\pooMaiorIdade.dll
