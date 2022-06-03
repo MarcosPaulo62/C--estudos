@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.AssemblyInfo.cs
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\empresa\empresa\bin\Debug\net6.0\empresa.exe
+C:\Users\marko\source\repos\empresa\empresa\bin\Debug\net6.0\empresa.deps.json
+C:\Users\marko\source\repos\empresa\empresa\bin\Debug\net6.0\empresa.runtimeconfig.json
+C:\Users\marko\source\repos\empresa\empresa\bin\Debug\net6.0\empresa.dll
+C:\Users\marko\source\repos\empresa\empresa\bin\Debug\net6.0\empresa.pdb
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.dll
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\refint\empresa.dll
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.pdb
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\empresa.genruntimeconfig.cache
+C:\Users\marko\source\repos\empresa\empresa\obj\Debug\net6.0\ref\empresa.dll

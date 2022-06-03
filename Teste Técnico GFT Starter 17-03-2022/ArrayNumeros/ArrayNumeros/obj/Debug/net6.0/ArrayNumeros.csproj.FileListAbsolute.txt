@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\bin\Debug\net6.0\ArrayNumeros.exe
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\bin\Debug\net6.0\ArrayNumeros.deps.json
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\bin\Debug\net6.0\ArrayNumeros.runtimeconfig.json
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\bin\Debug\net6.0\ArrayNumeros.dll
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\bin\Debug\net6.0\ArrayNumeros.pdb
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.AssemblyInfo.cs
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.dll
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\refint\ArrayNumeros.dll
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.pdb
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ArrayNumeros.genruntimeconfig.cache
+C:\Users\marko\source\repos\ArrayNumeros\ArrayNumeros\obj\Debug\net6.0\ref\ArrayNumeros.dll

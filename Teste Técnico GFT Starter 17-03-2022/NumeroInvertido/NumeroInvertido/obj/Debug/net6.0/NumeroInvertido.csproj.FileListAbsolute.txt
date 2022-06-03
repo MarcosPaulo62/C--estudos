@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\bin\Debug\net6.0\NumeroInvertido.exe
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\bin\Debug\net6.0\NumeroInvertido.deps.json
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\bin\Debug\net6.0\NumeroInvertido.runtimeconfig.json
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\bin\Debug\net6.0\NumeroInvertido.dll
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\bin\Debug\net6.0\NumeroInvertido.pdb
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.AssemblyInfo.cs
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.dll
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\refint\NumeroInvertido.dll
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.pdb
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\NumeroInvertido.genruntimeconfig.cache
+C:\Users\marko\source\repos\NumeroInvertido\NumeroInvertido\obj\Debug\net6.0\ref\NumeroInvertido.dll

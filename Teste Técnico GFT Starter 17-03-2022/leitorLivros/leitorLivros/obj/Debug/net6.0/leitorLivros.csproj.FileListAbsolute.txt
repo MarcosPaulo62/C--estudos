@@ -1,0 +1,15 @@
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\bin\Debug\net6.0\leitorLivros.exe
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\bin\Debug\net6.0\leitorLivros.deps.json
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\bin\Debug\net6.0\leitorLivros.runtimeconfig.json
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\bin\Debug\net6.0\leitorLivros.dll
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\bin\Debug\net6.0\leitorLivros.pdb
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.AssemblyInfo.cs
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.dll
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\refint\leitorLivros.dll
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.pdb
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\leitorLivros.genruntimeconfig.cache
+C:\Users\marko\source\repos\leitorLivros\leitorLivros\obj\Debug\net6.0\ref\leitorLivros.dll
