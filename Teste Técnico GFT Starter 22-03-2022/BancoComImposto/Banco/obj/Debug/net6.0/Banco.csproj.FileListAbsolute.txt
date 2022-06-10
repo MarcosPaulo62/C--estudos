@@ -1,0 +1,45 @@
+C:\Users\marko\source\repos\Banco\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\marko\source\repos\Banco\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\marko\source\repos\Banco\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\marko\source\repos\Banco\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\marko\source\repos\Banco\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\marko\source\repos\Banco\Banco\obj\Debug\net6.0\ref\Banco.dll
+C:\Users\marko\source\repos\BancoComImposto\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\marko\source\repos\BancoComImposto\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\marko\source\repos\BancoComImposto\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\marko\source\repos\BancoComImposto\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\marko\source\repos\BancoComImposto\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\marko\source\repos\BancoComImposto\Banco\obj\Debug\net6.0\ref\Banco.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\bin\Debug\net6.0\Banco.exe
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\bin\Debug\net6.0\Banco.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\bin\Debug\net6.0\Banco.pdb
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.pdb
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\BancoComImposto\Banco\obj\Debug\net6.0\ref\Banco.dll

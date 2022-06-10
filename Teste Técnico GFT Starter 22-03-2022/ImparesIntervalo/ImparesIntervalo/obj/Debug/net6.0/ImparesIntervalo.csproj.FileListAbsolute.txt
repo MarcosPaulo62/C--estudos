@@ -1,0 +1,30 @@
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.AssemblyInfo.cs
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.exe
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.deps.json
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.runtimeconfig.json
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.dll
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.pdb
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.dll
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\refint\ImparesIntervalo.dll
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.pdb
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.genruntimeconfig.cache
+C:\Users\marko\source\repos\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ref\ImparesIntervalo.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.exe
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.deps.json
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.runtimeconfig.json
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\bin\Debug\net6.0\ImparesIntervalo.pdb
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.csproj.AssemblyReference.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.AssemblyInfoInputs.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.AssemblyInfo.cs
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\refint\ImparesIntervalo.dll
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.pdb
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ImparesIntervalo.genruntimeconfig.cache
+C:\workspace\CSharp-estudos\Teste Técnico GFT Starter 22-03-2022\ImparesIntervalo\ImparesIntervalo\obj\Debug\net6.0\ref\ImparesIntervalo.dll
